@@ -76,5 +76,5 @@ resource "random_id" "bucket_suffix" {
 module "amplify_app" {
   source         = "./modules/amplify"
   app_name       = "tts-app"
-  repository_url = "https://github.com/yourusername/text-to-speech-app"
+  repository_url = "https://github.com/asconababy/Asconababy-Text-to-Speech-App"
 }
