@@ -8,8 +8,11 @@
 ![Amplify](https://img.shields.io/badge/AWS%20Amplify-Frontend-F59E0B?style=for-the-badge&logo=awsamplify)
 
 A serverless text-to-speech application built with AWS services and Terraform infrastructure as code.
+This project combines the power of AWS Lambda, API Gateway, S3, and Amplify to deliver a modern, full-stack solution.
 
 ## Architecture
+
+<img width="757" height="558" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/77fe4e3d-2f76-4427-ad13-95bdebd37802" />
 
 - **Frontend**: Static web application hosted on AWS Amplify
 - **Backend**: AWS Lambda function with Amazon Polly integration
