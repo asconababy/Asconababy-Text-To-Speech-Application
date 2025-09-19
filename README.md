@@ -45,12 +45,14 @@ UI In Process
 
 
 API Gateway
-<img width="1366" height="647" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/b5ebdebe-c206-44ab-a42f-29f29614fabb" />
+<img width="1366" height="586" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/f2fcb770-f799-4978-8c16-81e9052c763d" />
+
 
 
 
 Amplify Deployment 
-<img width="1366" height="649" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/5945ca63-10ff-4ff5-8e10-566942df5c5b" />
+<img width="1366" height="589" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/64ef2f71-7287-4ed3-943a-5157e107b220" />
+
 
 
 
@@ -61,7 +63,8 @@ CloudWatch Logs
 
 
 Lambda Function
-<img width="1366" height="645" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/1008cb31-5cd8-46bc-ac19-0a1ec4e8e73f" />
+<img width="1366" height="588" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/f8223a69-86e8-4620-8700-480271ceaa64" />
+
 
 
 
