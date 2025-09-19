@@ -1,7 +1,6 @@
 resource "aws_amplify_app" "this" {
-  name       = var.app_name
-  repository = var.repository_url
-  platform   = "WEB_COMPUTE"
+  name     = var.app_name
+  platform = "WEB_COMPUTE"
 
   build_spec = <<-EOT
     version: 1
