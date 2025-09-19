@@ -1,22 +1,6 @@
-# Terraform
 .terraform/
-*.tfstate
-*.tfstate.*
-crash.log
-override.tf
-override.tf.json
-*.override.tf
-*.override.tf.json
-
-# Provider binaries
-*.exe
+.terraform.lock.hcl
 *.zip
-
-# Node
 node_modules/
-build/
-dist/
-
-# OS
-.DS_Store
-Thumbs.db
+.aws-sam/
+*.log
