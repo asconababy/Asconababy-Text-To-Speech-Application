@@ -4,3 +4,7 @@
 node_modules/
 .aws-sam/
 *.log
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
