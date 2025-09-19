@@ -33,12 +33,14 @@ This project combines the power of AWS Lambda, API Gateway, S3, and Amplify to d
 
 
 UI Welcome Page
-<img width="1366" height="688" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/43ef43d3-d6ea-48ba-8b58-f4f915293c88" />
+<img width="1366" height="657" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/0865f4d4-4b1f-4df1-88a7-2327f3c93bb3" />
+
 
 
 
 UI In Process
-<img width="1366" height="656" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/15390407-1819-4c15-8f28-412dd1264e5f" />
+<img width="1366" height="649" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/5b992b57-ab9f-47a7-bb2e-efbf652e4b2f" />
+
 
 
 
@@ -48,7 +50,8 @@ API Gateway
 
 
 Amplify Deployment 
-<img width="1366" height="641" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/6b75777d-d5ee-464e-8e6f-54f3e38e73fd" />
+<img width="1366" height="649" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/5945ca63-10ff-4ff5-8e10-566942df5c5b" />
+
 
 
 
