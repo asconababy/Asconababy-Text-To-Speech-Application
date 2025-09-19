@@ -1,4 +1,11 @@
 # Text-to-Speech Application
+![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-API-4B5563?style=for-the-badge)
+![Amazon Polly](https://img.shields.io/badge/Amazon%20Polly-TTS-F9A03C?style=for-the-badge&logo=amazon)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-Serverless-F58536?style=for-the-badge&logo=awslambda)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-Rest%20API-6B7280?style=for-the-badge&logo=amazonaws)
+![Amplify](https://img.shields.io/badge/AWS%20Amplify-Frontend-F59E0B?style=for-the-badge&logo=awsamplify)
 
 A serverless text-to-speech application built with AWS services and Terraform infrastructure as code.
 
