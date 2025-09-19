@@ -58,7 +58,8 @@ Amplify Deployment
 
 
 CloudWatch Logs
-<img width="1366" height="641" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/b1fd4ff4-d73e-4731-9324-05d553a50b62" />
+<img width="1366" height="585" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/ec3fc478-cab0-4d2e-b593-943ca1abeb21" />
+
 
 
 
